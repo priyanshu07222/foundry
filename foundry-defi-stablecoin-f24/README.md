@@ -6,3 +6,9 @@
 3. Colletral Exogenous (Crypto)
     1. weth
     2. wBtc
+
+1. what are out invariant/properties
+
+some proper oracle use
+write more tests
+smart contract audit preparation
